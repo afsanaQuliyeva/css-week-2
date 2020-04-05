@@ -1,0 +1,16 @@
+/* bg-color-code: #DC143C */
+
+.bg-color-red {
+	background-color: #DC143C;
+	background-image: url("../img/img-1.jpg");
+	background-repeat: no-repeat;
+	background-size: 200%;
+	background-position: bottom right;
+	width: 100%;
+
+	/*width: 50vw;*/
+	/*viewportun width-nin 50%*/
+	height: 80vh;
+	/*viewport-un height-inin 80%*/
+	}
+
